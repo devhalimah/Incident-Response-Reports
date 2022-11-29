@@ -1,4 +1,4 @@
 # Incident-Response-Reports
-Incident reports from analysis of various incident response scenario.
+**Reports and analysis of common soc incidents.**
 
-You can find each incident description and analysis by sorting through the files above.
+You can find each case description and analysis by sorting through the files above.
